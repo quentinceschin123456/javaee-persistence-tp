@@ -16,4 +16,4 @@ session 1 :
 
 session 2:
 	implémentation de la date
-	
+	début de l'including
